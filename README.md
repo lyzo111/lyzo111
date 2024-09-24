@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lyzo111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Plumbuses
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on nothin 😤 Jk, pls help
 - 📫 Discord: lyzo111
-- 😄 Pronouns: Mega / Mind
+- 😄 Pronouns: Mega / Mind, alternatively Milf / Hunter
 - ⚡ Fun fact: I like pancakes
 
 <!---

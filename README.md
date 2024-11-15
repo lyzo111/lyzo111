@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @lyzo111
-- 👀 I’m interested in Plumbuses
+- 👀 I’m interested in tax evasion. hmu
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on nothin 😤 Jk, pls help
+- 💞️ I’m a gaymer
 - 📫 Discord: lyzo111
-- 😄 Pronouns: Mega / Mind, alternatively Milf / Hunter
-- ⚡ Fun fact: I like pancakes
+- ⚡ Fun fact: HolyC is the best programming language in the world
 
 <!---
 lyzo111/lyzo111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

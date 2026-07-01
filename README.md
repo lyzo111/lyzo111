@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lyzo111
-- 👀 I’m interested in tax evasion. hmu
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m a gaymer
+- 👀 I’m interested in playing 8 Ball. hmu
+- 🌱 I'm currently learning how to pentest
+- 💞️ I’m a gaymer. No homo
 - 📫 Discord: lyzo111
-- ⚡ Fun fact: HolyC is the best programming language in the world
+- ⚡ Fun fact: I keep buying protein powder even though it tastes horrible
 
 <!---
 lyzo111/lyzo111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
